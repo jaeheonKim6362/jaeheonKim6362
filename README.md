@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **jaeheonKim6362/jaeheonKim6362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
 
+👋 안녕하세요. 김재헌입니다.
+
+방문해주셔서 감사합니다.
